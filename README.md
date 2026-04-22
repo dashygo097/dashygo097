@@ -21,6 +21,9 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)](#)
+[![MLIR](https://img.shields.io/badge/MLIR-4B8BBE?logo=llvm&logoColor=white)](#)
+
 
 
 ### Tech Stacks & Interests
