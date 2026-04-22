@@ -8,6 +8,7 @@
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
