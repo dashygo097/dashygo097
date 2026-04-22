@@ -21,10 +21,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)](#)
-[![MLIR](https://img.shields.io/badge/MLIR-4B8BBE?logo=llvm&logoColor=white)](#)
-
-
 
 ### Tech Stacks & Interests
 
@@ -38,6 +34,10 @@
 [![Vulkan](https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff)](#)
 [![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white)](#)
 [![SPIR--V](https://img.shields.io/badge/SPIR--V-AC162C?logo=khronos&logoColor=white)](#)
+
+###### Compiler
+[![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)](#)
+[![MLIR](https://img.shields.io/badge/MLIR-4B8BBE?logo=llvm&logoColor=white)](#)
 
 ###### Machine Learning
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
