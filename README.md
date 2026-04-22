@@ -25,6 +25,11 @@
 
 ### Tech Stacks & Interests
 
+###### Digital IC
+[![Verilog](https://img.shields.io/badge/Verilog-1075C2?logo=v&logoColor=white)](#)
+[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00A67E?logo=v&logoColor=white)](#)
+[![Chisel](https://img.shields.io/badge/Chisel-DC322F?logo=scala&logoColor=white)](#)
+
 ###### Graphics
 [![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#)
 [![Vulkan](https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff)](#)
