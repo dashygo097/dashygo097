@@ -21,10 +21,9 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Verilog](https://img.shields.io/badge/Verilog-00599C?logo=v&logoColor=white)](#)
-[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?logo=v&logoColor=white)](#)
-[![VHDL](https://img.shields.io/badge/VHDL-543978?logo=v&logoColor=white)](#)
-[![Chisel](https://img.shields.io/badge/Chisel-DC322F?logo=scala&logoColor=white)](#)
+[![Verilog](https://img.shields.io/badge/Verilog-00599C?logo=v&logoColor=green)](#)
+[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?logo=v&logoColor=blue)](#)
+[![Chisel](https://img.shields.io/badge/Chisel-DC322F?logo=scala&logoColor=red)](#)
 
 
 ### Tech Stacks & Interests
