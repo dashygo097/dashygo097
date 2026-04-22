@@ -33,7 +33,7 @@
 [![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#)
 [![Vulkan](https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff)](#)
 [![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white)](#)
-[![SPIR--V](https://img.shields.io/badge/SPIR--V-AC162C?logo=khronos&logoColor=white)](#)
+[![SPIR-V](https://img.shields.io/badge/SPIR--V-B83998?logoColor=white)](#)
 
 ###### Compiler
 [![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)](#)
