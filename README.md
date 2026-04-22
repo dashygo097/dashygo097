@@ -30,7 +30,7 @@
 [![Chisel](https://img.shields.io/badge/Chisel-DC322F?logo=scala&logoColor=white)](#)
 
 ###### Graphics
-[![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#)
+[![OpenGL](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#)
 [![Vulkan](https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff)](#)
 [![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white)](#)
 [![SPIR-V](https://img.shields.io/badge/SPIR--V-B83998?logoColor=white)](#)
