@@ -21,7 +21,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Verilog](https://img.shields.io/badge/Verilog-00599C?logo=v&logoColor=green)](#)
+[![Verilog](https://img.shields.io/badge/Verilog-00599C?logo=v&logoColor=green&bg=green)](#)
 [![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?logo=v&logoColor=blue)](#)
 [![Chisel](https://img.shields.io/badge/Chisel-DC322F?logo=scala&logoColor=red)](#)
 
