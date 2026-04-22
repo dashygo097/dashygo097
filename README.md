@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am dashygo097 👋
 
 ### Dev Tools & Setups
 
@@ -48,4 +48,5 @@
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#)
 
+### Statistics
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=dashygo097&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashygo097&hide_border=true&layout=compact&langs_count=8&theme=graywhite" />
