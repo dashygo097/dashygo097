@@ -21,6 +21,12 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?logo=xilinx&logoColor=white)](#)
+[![Intel FPGA](https://img.shields.io/badge/Intel_FPGA-0071C5?logo=intel&logoColor=white)](#)
+[![Vivado](https://img.shields.io/badge/Vivado-E01F27?logoColor=white)](#)
+[![Quartus](https://img.shields.io/badge/Quartus-0071C5?logoColor=white)](#)
+[![Lattice](https://img.shields.io/badge/Lattice-0047AB?logoColor=white)](#)
+
 
 
 ### Tech Stacks & Interests
