@@ -56,6 +56,7 @@
 <img height="137px"
   src="https://github-stats-extended.vercel.app/api?username=dashygo097&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite"
 />
-<img height="137px"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=dashygo097&hide_border=true&layout=compact&langs_count=8&theme=graywhite"
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dashygo097&theme=github"
 />
