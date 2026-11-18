@@ -32,26 +32,31 @@
 ### Tech Stacks & Interests
 
 ###### Digital IC
+
 [![Verilog](https://img.shields.io/badge/Verilog-1075C2?logo=v&logoColor=white)](#)
 [![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00A67E?logo=v&logoColor=white)](#)
 [![Chisel](https://img.shields.io/badge/Chisel-DC322F?logo=scala&logoColor=white)](#)
 
 ###### Graphics
+
 [![OpenGL](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#)
 [![Vulkan](https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff)](#)
 [![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white)](#)
 [![SPIR-V](https://img.shields.io/badge/SPIR--V-B83998?logoColor=white)](#)
 
 ###### Compiler
+
 [![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)](#)
 [![MLIR](https://img.shields.io/badge/MLIR-4B8BBE?logo=llvm&logoColor=white)](#)
 
 ###### Machine Learning & AI Infra
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 [![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=ONNX&logoColor=white)](#)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#)
 
 ###### Web & App
+
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
@@ -60,6 +65,7 @@
 [![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](#)
 
 ### Statistics
+
 <img height="137px"
   src="https://github-stats-extended.vercel.app/api?username=dashygo097&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite"
 />
